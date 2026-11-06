@@ -1,0 +1,10 @@
+fit 2h conv: 492095 pairs, 5752 s, ok 99.33%
+fit 2h sig0.017: 55676 pairs, 628 s, ok 99.56%
+fit 2h sig0.05: 126033 pairs, 1440 s, ok 99.53%
+fit 2h sig0.1: 184671 pairs, 2221 s, ok 99.49%
+fit 2h sig0.2: 236645 pairs, 2712 s, ok 99.41%
+fit ab conv: 492095 pairs, 4158 s, ok 99.72%
+fit ab sig0.017: 55676 pairs, 481 s, ok 99.84%
+fit ab sig0.05: 126033 pairs, 1088 s, ok 99.84%
+fit ab sig0.1: 184671 pairs, 1553 s, ok 99.87%
+fit ab sig0.2: 236645 pairs, 2095 s, ok 99.91%

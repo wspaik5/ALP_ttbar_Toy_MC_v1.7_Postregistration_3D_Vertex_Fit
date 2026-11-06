@@ -1,0 +1,26 @@
+conversions ...
+    mini-sim on 492095 pairs (brems): 949 s, fit ok 98.37%
+    mini-sim on 492095 pairs (no brems): 944 s, fit ok 95.23%
+signal ...
+    mini-sim on 55676 pairs (brems): 106 s, fit ok 97.47%
+    17 MeV: degradation primary   181.8x  (n_sigma=None, eff 14.79%, B=49701.5) | +hit pattern   243.8x | v1.1 per-pair Gaussian on same pairs    4.9x
+    mini-sim on 126033 pairs (brems): 240 s, fit ok 97.51%
+    50 MeV: degradation primary    93.2x  (n_sigma=None, eff 32.07%, B=11973.5) | +hit pattern   137.7x | v1.1 per-pair Gaussian on same pairs    4.4x
+    mini-sim on 184671 pairs (brems): 351 s, fit ok 97.59%
+   100 MeV: degradation primary    42.5x  (n_sigma=None, eff 48.70%, B=2672.5) | +hit pattern    69.9x | v1.1 per-pair Gaussian on same pairs    3.6x
+    mini-sim on 236645 pairs (brems): 448 s, fit ok 97.90%
+   200 MeV: degradation primary    18.8x  (n_sigma=None, eff 64.13%, B=549.0) | +hit pattern    32.0x | v1.1 per-pair Gaussian on same pairs    2.4x
+
+=== resolution metrics ===
+('conv', 'brems', 'pixel') {'n': 92839, 'sigma_core': np.float64(40.4355), 'f3': np.float64(0.9055), 'pull_width': np.float64(23.3871), 'median_sr': np.float64(3.0641)}
+('conv', 'brems', 'strip') {'n': 391242, 'sigma_core': np.float64(27.2437), 'f3': np.float64(0.8061), 'pull_width': np.float64(75664.2007), 'median_sr': np.float64(0.0002)}
+('conv', 'brems', 'all') {'n': 484081, 'sigma_core': np.float64(31.5375), 'f3': np.float64(0.8252), 'pull_width': np.float64(59.3636), 'median_sr': np.float64(1.2539)}
+('conv', 'nobrems', 'pixel') {'n': 89461, 'sigma_core': np.float64(4.4042), 'f3': np.float64(0.8026), 'pull_width': np.float64(640795.7664), 'median_sr': np.float64(0.0)}
+('conv', 'nobrems', 'strip') {'n': 379177, 'sigma_core': np.float64(7.1595), 'f3': np.float64(0.7843), 'pull_width': np.float64(205554.5126), 'median_sr': np.float64(0.0)}
+('conv', 'nobrems', 'all') {'n': 468638, 'sigma_core': np.float64(6.3101), 'f3': np.float64(0.7878), 'pull_width': np.float64(254445.2778), 'median_sr': np.float64(0.0)}
+('sig', 0.017) {'n': 54269, 'sigma_core': np.float64(32.8657), 'f3': np.float64(0.8859), 'pull_width': np.float64(212573.7063), 'median_sr': np.float64(0.0001)}
+('sig', 0.05) {'n': 122898, 'sigma_core': np.float64(38.927), 'f3': np.float64(0.8993), 'pull_width': np.float64(181317.0865), 'median_sr': np.float64(0.0001)}
+('sig', 0.1) {'n': 180220, 'sigma_core': np.float64(49.3591), 'f3': np.float64(0.8968), 'pull_width': np.float64(5336.311), 'median_sr': np.float64(0.0005)}
+('sig', 0.2) {'n': 231687, 'sigma_core': np.float64(54.3723), 'f3': np.float64(0.8795), 'pull_width': np.float64(79.6194), 'median_sr': np.float64(1.1924)}
+P1 {'minisim': np.float64(4.162939781924525e-06), 'v11': np.float64(2.211689623253457), 'ratio': np.float64(1.8822441169664325e-06)}
+fit ok (conv brems, nobrems) (np.float64(0.983714526666599), np.float64(0.9523323748463203))

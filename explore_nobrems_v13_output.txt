@@ -1,0 +1,9 @@
+    mini-sim on 492095 pairs (no brems): 863 s, fit ok 100.00%
+    mini-sim on 55676 pairs (no brems): 98 s, fit ok 100.00%
+    17 MeV  no-brems bound:    1.9x (n_sigma=4.0) | +HP    1.9x | signal {'n': 55676, 'sigma_core': np.float64(5.828210133720539), 'f3': np.float64(0.1997629140024427), 'pull_width': np.float64(2.4453045195115655), 'median_sr': np.float64(2.2533917726976513)}
+    mini-sim on 126033 pairs (no brems): 244 s, fit ok 100.00%
+    50 MeV  no-brems bound:    2.0x (n_sigma=4.0) | +HP    2.1x | signal {'n': 126033, 'sigma_core': np.float64(16.56634967089577), 'f3': np.float64(0.6624852221243642), 'pull_width': np.float64(6.6247293473882465), 'median_sr': np.float64(2.2831608968218426)}
+    mini-sim on 184671 pairs (no brems): 351 s, fit ok 100.00%
+   100 MeV  no-brems bound:    1.9x (n_sigma=3.0) | +HP    2.6x | signal {'n': 184671, 'sigma_core': np.float64(32.23160872259312), 'f3': np.float64(0.8285762247456288), 'pull_width': np.float64(12.611330010116562), 'median_sr': np.float64(2.3283385470013203)}
+    mini-sim on 236645 pairs (no brems): 449 s, fit ok 100.00%
+   200 MeV  no-brems bound:    1.8x (n_sigma=3.0) | +HP    4.4x | signal {'n': 236645, 'sigma_core': np.float64(57.55548879545905), 'f3': np.float64(0.9078662131040166), 'pull_width': np.float64(22.321417813332186), 'median_sr': np.float64(2.330944044656683)}

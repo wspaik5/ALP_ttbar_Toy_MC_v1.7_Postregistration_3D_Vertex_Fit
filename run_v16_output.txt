@@ -1,0 +1,57 @@
+gate identity R conv     : 100.000%  PASS
+gate identity R sig0.017 : 100.000%  PASS
+gate identity R sig0.05  : 100.000%  PASS
+gate identity R sig0.1   : 100.000%  PASS
+gate identity R sig0.2   : 100.000%  PASS
+gate R    conv     : ok 99.32%  ok_alp 99.32%  dchi2<-0.1 0.00%  median sigma_rep 7.34 mm  PASS
+gate R    sig0.017 : ok 99.56%  ok_alp 99.56%  dchi2<-0.1 0.00%  median sigma_rep 8.79 mm  PASS
+gate R    sig0.05  : ok 99.52%  ok_alp 99.52%  dchi2<-0.1 0.00%  median sigma_rep 9.09 mm  PASS
+gate R    sig0.1   : ok 99.47%  ok_alp 99.47%  dchi2<-0.1 0.00%  median sigma_rep 9.32 mm  PASS
+gate R    sig0.2   : ok 99.39%  ok_alp 99.39%  dchi2<-0.1 0.00%  median sigma_rep 9.40 mm  PASS
+gate B2   conv     : ok 99.73%  ok_alp 99.73%  dchi2<-0.1 0.00%  median sigma_rep 10.15 mm  PASS
+gate B2   sig0.017 : ok 99.82%  ok_alp 99.82%  dchi2<-0.1 0.00%  median sigma_rep 11.88 mm  PASS
+gate B2   sig0.05  : ok 99.79%  ok_alp 99.79%  dchi2<-0.1 0.00%  median sigma_rep 12.15 mm  PASS
+gate B2   sig0.1   : ok 99.79%  ok_alp 99.79%  dchi2<-0.1 0.00%  median sigma_rep 12.55 mm  PASS
+gate B2   sig0.2   : ok 99.72%  ok_alp 99.72%  dchi2<-0.1 0.00%  median sigma_rep 12.36 mm  PASS
+gate B1   conv     : ok 99.89%  ok_alp 99.89%  dchi2<-0.1 0.00%  median sigma_rep 14.66 mm  PASS
+gate B1   sig0.017 : ok 99.91%  ok_alp 99.91%  dchi2<-0.1 0.00%  median sigma_rep 16.92 mm  PASS
+gate B1   sig0.05  : ok 99.91%  ok_alp 99.91%  dchi2<-0.1 0.00%  median sigma_rep 17.37 mm  PASS
+gate B1   sig0.1   : ok 99.88%  ok_alp 99.88%  dchi2<-0.1 0.00%  median sigma_rep 17.60 mm  PASS
+gate B1   sig0.2   : ok 99.87%  ok_alp 99.87%  dchi2<-0.1 0.00%  median sigma_rep 16.08 mm  PASS
+gate B05  conv     : ok 99.95%  ok_alp 99.95%  dchi2<-0.1 0.00%  median sigma_rep 22.11 mm  PASS
+gate B05  sig0.017 : ok 99.95%  ok_alp 99.95%  dchi2<-0.1 0.00%  median sigma_rep 25.51 mm  PASS
+gate B05  sig0.05  : ok 99.94%  ok_alp 99.94%  dchi2<-0.1 0.00%  median sigma_rep 25.92 mm  PASS
+gate B05  sig0.1   : ok 99.94%  ok_alp 99.94%  dchi2<-0.1 0.00%  median sigma_rep 24.93 mm  PASS
+gate B05  sig0.2   : ok 99.94%  ok_alp 99.94%  dchi2<-0.1 0.00%  median sigma_rep 20.80 mm  PASS
+gate B02  conv     : ok 99.97%  ok_alp 99.97%  dchi2<-0.1 0.00%  median sigma_rep 40.66 mm  PASS
+gate B02  sig0.017 : ok 99.99%  ok_alp 99.99%  dchi2<-0.1 0.00%  median sigma_rep 46.91 mm  PASS
+gate B02  sig0.05  : ok 99.98%  ok_alp 99.98%  dchi2<-0.1 0.00%  median sigma_rep 44.55 mm  PASS
+gate B02  sig0.1   : ok 99.98%  ok_alp 99.98%  dchi2<-0.1 0.00%  median sigma_rep 38.97 mm  PASS
+gate B02  sig0.2   : ok 99.96%  ok_alp 99.96%  dchi2<-0.1 0.00%  median sigma_rep 27.97 mm  PASS
+gate M05  conv     : ok 99.82%  ok_alp 99.82%  dchi2<-0.1 0.00%  median sigma_rep 5.82 mm  PASS
+gate M05  sig0.017 : ok 99.92%  ok_alp 99.92%  dchi2<-0.1 0.00%  median sigma_rep 6.94 mm  PASS
+gate M05  sig0.05  : ok 99.86%  ok_alp 99.86%  dchi2<-0.1 0.00%  median sigma_rep 7.13 mm  PASS
+gate M05  sig0.1   : ok 99.86%  ok_alp 99.86%  dchi2<-0.1 0.00%  median sigma_rep 7.25 mm  PASS
+gate M05  sig0.2   : ok 99.84%  ok_alp 99.84%  dchi2<-0.1 0.00%  median sigma_rep 7.24 mm  PASS
+gate M025 conv     : ok 99.95%  ok_alp 99.95%  dchi2<-0.1 0.00%  median sigma_rep 4.77 mm  PASS
+gate M025 sig0.017 : ok 99.95%  ok_alp 99.95%  dchi2<-0.1 0.00%  median sigma_rep 5.71 mm  PASS
+gate M025 sig0.05  : ok 99.95%  ok_alp 99.95%  dchi2<-0.1 0.00%  median sigma_rep 5.83 mm  PASS
+gate M025 sig0.1   : ok 99.95%  ok_alp 99.95%  dchi2<-0.1 0.00%  median sigma_rep 5.91 mm  PASS
+gate M025 sig0.2   : ok 99.94%  ok_alp 99.94%  dchi2<-0.1 0.00%  median sigma_rep 5.91 mm  PASS
+gate C    conv     : ok 99.94%  ok_alp 99.94%  dchi2<-0.1 0.00%  median sigma_rep 8.11 mm  PASS
+gate C    sig0.017 : ok 99.96%  ok_alp 99.96%  dchi2<-0.1 0.00%  median sigma_rep 9.58 mm  PASS
+gate C    sig0.05  : ok 99.93%  ok_alp 99.93%  dchi2<-0.1 0.00%  median sigma_rep 9.77 mm  PASS
+gate C    sig0.1   : ok 99.94%  ok_alp 99.94%  dchi2<-0.1 0.00%  median sigma_rep 9.96 mm  PASS
+gate C    sig0.2   : ok 99.93%  ok_alp 99.93%  dchi2<-0.1 0.00%  median sigma_rep 9.74 mm  PASS
+
+SANITY GATE PASSED
+
+config  B    f     17MeV   50MeV  100MeV  200MeV | nomass 17/200 | conv f9  ALP17 f9  ALP200 f9 | curv res 17MeV | conv core
+R      3.8  1.00   127.3    68.4    27.9     8.2 |  136.7  130.4 |    9.6%     9.2%    35.4% |   18.32% |    7.85 mm
+B2     2.0  1.00   154.6    79.9    26.9     7.4 |  164.7  124.7 |    7.2%     6.1%    41.9% |   20.66% |   10.33 mm
+B1     1.0  1.00   183.5    85.3    21.2     6.4 |  199.6  101.8 |    4.4%     3.6%    45.6% |   24.88% |   14.61 mm
+B05    0.5  1.00   184.0    66.4    19.5     7.4 |  199.6   70.8 |    2.4%     2.9%    48.5% |   32.20% |   22.94 mm
+B02    0.2  1.00   188.4    58.3    22.9    10.9 |  199.7   52.2 |    1.4%     5.3%    53.2% |   49.74% |   47.94 mm
+M05    3.8  0.50    65.4    36.1    16.4     5.7 |   70.0   70.1 |    4.2%     4.2%    31.9% |   11.53% |    4.90 mm
+M025   3.8  0.25    34.7    19.5     8.8     2.1 |   36.9   36.0 |    1.7%     1.8%    31.3% |    7.91% |    3.65 mm
+C      2.0  0.50    86.6    47.5    15.0     3.9 |   91.8   67.9 |    2.9%     2.7%    40.6% |   13.66% |    6.92 mm

@@ -1,0 +1,9 @@
+V1/V3 pT=    1 GeV: pull(phi) 0.998  pull(omega) 0.993  sigma(pT)/pT 0.72%  median chi2/ndf 0.94
+V1/V3 pT=   10 GeV: pull(phi) 1.000  pull(omega) 0.999  sigma(pT)/pT 0.88%  median chi2/ndf 0.94
+V1/V3 pT=   30 GeV: pull(phi) 1.004  pull(omega) 1.002  sigma(pT)/pT 1.01%  median chi2/ndf 0.95
+V1/V3 pT=  100 GeV: pull(phi) 0.988  pull(omega) 1.001  sigma(pT)/pT 1.46%  median chi2/ndf 0.94
+V2 pT~   2 GeV: fit ok 100.0%  radial pull width 1.042  sigma_core 1.674 mm  |pull|>3: 7.99%  median chi2/ndf 0.95
+V2 pT~  10 GeV: fit ok 100.0%  radial pull width 1.013  sigma_core 0.883 mm  |pull|>3: 0.62%  median chi2/ndf 0.94
+V1 PASS | V2 PASS | V3 FAIL
+V4 collinear (parallel=False): fit ok 100.0%  pull width 0.076  |pull|>3 7.20%  sigma_core pixel 5.87 mm / strip 8.63 mm  median sigma_rep pixel 55.44 / strip 85.27 mm  median bias 2.02 mm
+V4 collinear (parallel=True): fit ok 100.0%  pull width 1.031  |pull|>3 0.33%  sigma_core pixel 1.56 mm / strip 2.08 mm  median sigma_rep pixel 1.58 / strip 1.99 mm  median bias -0.02 mm

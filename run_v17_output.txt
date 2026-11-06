@@ -1,0 +1,17 @@
+gate conv     : identity 100.000%  ok 99.32%  neg[default] 0.000% (prereg def. 2.01%)  neg[stereo] 0.000% (prereg def. 2.38%)  neg[allpixel] 0.000% (prereg def. 12.68%)  PASS
+gate sig0.017 : identity 100.000%  ok 99.56%  neg[default] 0.000% (prereg def. 1.06%)  neg[stereo] 0.000% (prereg def. 1.50%)  neg[allpixel] 0.000% (prereg def. 5.46%)  PASS
+gate sig0.05  : identity 100.000%  ok 99.52%  neg[default] 0.000% (prereg def. 1.27%)  neg[stereo] 0.000% (prereg def. 1.12%)  neg[allpixel] 0.000% (prereg def. 3.12%)  PASS
+gate sig0.1   : identity 100.000%  ok 99.47%  neg[default] 0.000% (prereg def. 1.85%)  neg[stereo] 0.000% (prereg def. 1.37%)  neg[allpixel] 0.000% (prereg def. 2.81%)  PASS
+gate sig0.2   : identity 100.000%  ok 99.39%  neg[default] 0.000% (prereg def. 2.07%)  neg[stereo] 0.000% (prereg def. 1.49%)  neg[allpixel] 0.000% (prereg def. 3.34%)  PASS
+
+test           17MeV   50MeV  100MeV  200MeV | no mass window 17 / 200
+T              127.3    68.4    27.9     8.2 |  136.7  130.4   (k: None, None, 4, 16)
+L              122.4    55.4    21.9     5.9 |  133.0  102.9   (k: 2, 2, 4, 4)
+3D             127.3    63.9    24.2     6.1 |  136.7  119.0   (k: None, 9, 9, 16)
+3D_stereo      127.3    60.9    20.5     4.5 |  136.7   98.8   (k: None, 9, 9, 16)
+3D_allpixel    117.4    38.5    13.1     3.9 |  132.8   77.8   (k: 4, 9, 25, 49)
+
+r-z information (fraction of base pairs) and fraction with dchi2_L > 9 among pairs with information:
+default   conv info  13.9%  L>9  0.84% | 17 MeV info  15.2% L>9  15.5% | 50 MeV info  19.3% L>9  54.8% | 100 MeV info  24.9% L>9  76.3% | 200 MeV info  34.3% L>9  86.5%
+stereo    conv info  86.6%  L>9  2.87% | 17 MeV info  78.6% L>9   5.8% | 50 MeV info  82.8% L>9  23.7% | 100 MeV info  87.2% L>9  45.1% | 200 MeV info  91.9% L>9  65.4%
+allpixel  conv info 100.0%  L>9  7.44% | 17 MeV info 100.0% L>9  35.8% | 50 MeV info 100.0% L>9  74.4% | 100 MeV info 100.0% L>9  86.0% | 200 MeV info 100.0% L>9  92.3%

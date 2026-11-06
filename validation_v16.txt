@@ -1,0 +1,11 @@
+Y1-Y3 validation (v1.6 preregistration Sec. 5)
+Y1 B=0.2: n=7999 frac(dchi2<1e-3) 0.448 [0.40-0.60]  median non-zero 0.512 [0.30-0.65]  -> PASS
+Y2 B=0.2: dphi=2 mrad median dchi2 6.8054  frac>9 43.75%
+Y2 B=1.0: dphi=2 mrad median dchi2 0.8716  frac>9 5.20%
+Y2 B=3.8: dphi=2 mrad median dchi2 0.0446  frac>9 0.35%
+Y1 B=2.0: n=8000 frac(dchi2<1e-3) 0.508 [0.40-0.60]  median non-zero 0.463 [0.30-0.65]  -> PASS
+Y2 B=2.0: dphi=2 mrad median dchi2 0.2045  frac>9 0.85%
+Y2 B=0.5: dphi=2 mrad median dchi2 2.5313  frac>9 19.50%
+Y3 B=3.8: max |hit - analytic| = 2.57e-09 um [< 0.1 um] -> PASS
+Y3 B=0.2: max |hit - analytic| = 2.69e-08 um [< 0.1 um] -> PASS
+Y2 monotonic in decreasing B: 3.8 T 0.0446 < 2.0 T 0.2045 < 1.0 T 0.8716 < 0.5 T 2.5313 < 0.2 T 6.8054 -> PASS

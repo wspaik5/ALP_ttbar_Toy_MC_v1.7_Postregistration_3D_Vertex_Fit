@@ -1,0 +1,15 @@
+X1 sample: n = 8000 (v1.3 V4 collinear sample, seed 404, no brems, fit (b) with c_k = 0)
+fraction with dchi2 < 1e-3          : 0.513   (boundary mixture: 0.500)
+median of non-zero part            : 0.457   (chi2_1: 0.455)
+fraction dchi2 > 2.71              : 0.0488  (mixture 0.050, chi2_1 0.100)
+fraction dchi2 > 3.84              : 0.0215  (mixture 0.025, chi2_1 0.050)
+fraction dchi2 < -0.1              : 0.0000
+profile scan (300 pairs): offset [mrad] -> median chi2 rise, larger of the two signs
+    0.10 ->    -0.0001
+    0.20 ->    -0.0003
+    0.50 ->     0.0002
+    1.00 ->     0.0371
+    2.00 ->     1.0756
+    3.00 ->     5.8589
+    5.00 ->    36.9808
+log-log slope of profile rise (offsets >= 1 mrad; below, the rise is within the minimiser tolerance): 4.31  (regular case: 2; second-order identification: 4)

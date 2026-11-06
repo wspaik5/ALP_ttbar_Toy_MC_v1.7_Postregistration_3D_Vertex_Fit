@@ -1,0 +1,10 @@
+v1.7 validation (preregistration Sec. 6)
+Z3: max |z_sim - (z_v + cot(theta) s)| = 1.86e-07 um [< 0.1 um] -> PASS
+Z1: pairs with r-z information 972 of 8000
+Z1: dchi2_L  median 0.428 [0.30-0.65]  frac>3.84 5.04% [3-8%]  -> PASS
+Z1: dchi2_3D median 0.820 [0.60-1.15]  frac>3.84 8.64% [6-14%]  -> PASS
+Z2: dtheta = 0.0 mrad  n with r-z info 2000  median dchi2_L      0.42  frac>9   0.50%
+Z2: dtheta = 0.5 mrad  n with r-z info 2000  median dchi2_L      2.73  frac>9  11.15%
+Z2: dtheta = 1.0 mrad  n with r-z info 2000  median dchi2_L     10.42  frac>9  57.30%
+Z2: dtheta = 2.0 mrad  n with r-z info 2000  median dchi2_L     41.69  frac>9  97.75%
+Z2: monotonic -> PASS

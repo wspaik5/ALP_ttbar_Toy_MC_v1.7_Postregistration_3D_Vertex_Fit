@@ -1,0 +1,44 @@
+gate a6  conv     : fit ok  99.79%  median sigma_rep    1.849 mm  PASS
+gate a6  sig0.017 : fit ok  99.88%  median sigma_rep    2.212 mm  PASS
+gate a6  sig0.05  : fit ok  99.88%  median sigma_rep    2.275 mm  PASS
+gate a6  sig0.1   : fit ok  99.90%  median sigma_rep    2.342 mm  PASS
+gate a6  sig0.2   : fit ok  99.93%  median sigma_rep    2.384 mm  PASS
+gate b   conv     : fit ok  99.33%  median sigma_rep    7.345 mm  PASS
+gate b   sig0.017 : fit ok  99.56%  median sigma_rep    8.794 mm  PASS
+gate b   sig0.05  : fit ok  99.53%  median sigma_rep    9.074 mm  PASS
+gate b   sig0.1   : fit ok  99.49%  median sigma_rep    9.292 mm  PASS
+gate b   sig0.2   : fit ok  99.41%  median sigma_rep    9.386 mm  PASS
+gate a4  conv     : fit ok  99.79%  median sigma_rep    2.501 mm  PASS
+gate a4  sig0.017 : fit ok  99.88%  median sigma_rep    3.183 mm  PASS
+gate a4  sig0.05  : fit ok  99.88%  median sigma_rep    3.387 mm  PASS
+gate a4  sig0.1   : fit ok  99.90%  median sigma_rep    3.624 mm  PASS
+gate a4  sig0.2   : fit ok  99.93%  median sigma_rep    3.912 mm  PASS
+gate a8  conv     : fit ok  99.79%  median sigma_rep    1.654 mm  PASS
+gate a8  sig0.017 : fit ok  99.88%  median sigma_rep    1.957 mm  PASS
+gate a8  sig0.05  : fit ok  99.88%  median sigma_rep    1.968 mm  PASS
+gate a8  sig0.1   : fit ok  99.90%  median sigma_rep    1.978 mm  PASS
+gate a8  sig0.2   : fit ok  99.93%  median sigma_rep    1.936 mm  PASS
+
+=== a6 ===  conversions r<800: bias +6.24 mm, f3 50.4%, pull width 4.44, core 8.80 mm
+    17 MeV: degradation   168.9x (n_sigma=0.5, eff 12.26%, B=28048.2)   [v1.3 B 177.86x, no-brems bound 1.9x]
+    50 MeV: degradation    89.3x (n_sigma=1.0, eff 24.75%, B=6246.9)   [v1.3 B 93.31x, no-brems bound 2.0x]
+   100 MeV: degradation    39.4x (n_sigma=2.0, eff 33.03%, B=1006.1)   [v1.3 B 42.27x, no-brems bound 1.9x]
+   200 MeV: degradation    14.3x (n_sigma=5.0, eff 26.30%, B=51.4)   [v1.3 B 16.12x, no-brems bound 1.8x]
+
+=== b ===  conversions r<800: bias +1.07 mm, f3 10.7%, pull width 0.95, core 7.80 mm
+    17 MeV: degradation   126.3x (n_sigma=1.0, eff 7.82%, B=6425.1)   [v1.3 B 177.86x, no-brems bound 1.9x]
+    50 MeV: degradation    68.2x (n_sigma=1.5, eff 12.35%, B=913.1)   [v1.3 B 93.31x, no-brems bound 2.0x]
+   100 MeV: degradation    31.8x (n_sigma=1.5, eff 19.20%, B=223.4)   [v1.3 B 42.27x, no-brems bound 1.9x]
+   200 MeV: degradation    13.7x (n_sigma=1.5, eff 28.07%, B=54.0)   [v1.3 B 16.12x, no-brems bound 1.8x]
+
+=== a4 ===  conversions r<800: bias +2.84 mm, f3 26.9%, pull width 1.97, core 5.26 mm
+    17 MeV: degradation   147.3x (n_sigma=1.0, eff 11.18%, B=17753.2)   [v1.3 B 177.86x, no-brems bound 1.9x]
+    50 MeV: degradation    76.3x (n_sigma=1.5, eff 20.29%, B=3059.6)   [v1.3 B 93.31x, no-brems bound 2.0x]
+   100 MeV: degradation    31.1x (n_sigma=2.0, eff 27.88%, B=446.2)   [v1.3 B 42.27x, no-brems bound 1.9x]
+   200 MeV: degradation    10.1x (n_sigma=4.0, eff 22.30%, B=18.4)   [v1.3 B 16.12x, no-brems bound 1.8x]
+
+=== a8 ===  conversions r<800: bias +9.58 mm, f3 60.9%, pull width 7.44, core 12.93 mm
+    17 MeV: degradation   176.2x (n_sigma=0.5, eff 12.35%, B=31023.8)   [v1.3 B 177.86x, no-brems bound 1.9x]
+    50 MeV: degradation    92.4x (n_sigma=0.5, eff 26.84%, B=7867.3)   [v1.3 B 93.31x, no-brems bound 2.0x]
+   100 MeV: degradation    41.9x (n_sigma=1.5, eff 36.68%, B=1408.2)   [v1.3 B 42.27x, no-brems bound 1.9x]
+   200 MeV: degradation    16.4x (n_sigma=5.0, eff 31.07%, B=93.5)   [v1.3 B 16.12x, no-brems bound 1.8x]

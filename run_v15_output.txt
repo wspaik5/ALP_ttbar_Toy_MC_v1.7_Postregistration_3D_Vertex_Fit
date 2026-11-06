@@ -1,0 +1,11 @@
+gate conv     : identity 100.000%  H_ALP ok  99.33%  dchi2<-0.1  0.00%  PASS
+gate sig0.017 : identity 100.000%  H_ALP ok  99.56%  dchi2<-0.1  0.00%  PASS
+gate sig0.05  : identity 100.000%  H_ALP ok  99.53%  dchi2<-0.1  0.00%  PASS
+gate sig0.1   : identity 100.000%  H_ALP ok  99.49%  dchi2<-0.1  0.00%  PASS
+gate sig0.2   : identity 100.000%  H_ALP ok  99.41%  dchi2<-0.1  0.00%  PASS
+
+conversions r<800: frac dchi2>9 = 9.6%  median 0.00143
+  17 MeV: v1.4(b) re-scan  126.3x | v1.5  126.3x (k=None, nsig=1.0, eff 7.82%, B=6425.1) | (a)+(b)  110.7x | V-nomass v1.4(b)  136.3x v1.5  136.3x | ALP frac dchi2>9 9.2%
+  50 MeV: v1.4(b) re-scan   68.2x | v1.5   68.2x (k=None, nsig=1.5, eff 12.35%, B=913.1) | (a)+(b)   59.7x | V-nomass v1.4(b)  141.2x v1.5  141.2x | ALP frac dchi2>9 10.3%
+ 100 MeV: v1.4(b) re-scan   31.8x | v1.5   28.4x (k=4, nsig=1.5, eff 27.92%, B=377.8) | (a)+(b)   27.8x | V-nomass v1.4(b)  143.0x v1.5  143.0x | ALP frac dchi2>9 16.8%
+ 200 MeV: v1.4(b) re-scan   13.7x | v1.5    9.1x (k=9, nsig=3.0, eff 32.05%, B=30.8) | (a)+(b)   11.9x | V-nomass v1.4(b)  138.8x v1.5  129.6x | ALP frac dchi2>9 35.6%

@@ -1,0 +1,5 @@
+conv: 100000 pairs, 653 s, ok 99.32%, info default/stereo/allpixel 14.0/86.5/99.8%
+sig0.017: 55676 pairs, 355 s, ok 99.56%, info default/stereo/allpixel 15.3/78.5/99.9%
+sig0.05: 60000 pairs, 392 s, ok 99.52%, info default/stereo/allpixel 19.4/82.7/99.9%
+sig0.1: 60000 pairs, 385 s, ok 99.47%, info default/stereo/allpixel 24.9/87.1/99.9%
+sig0.2: 60000 pairs, 386 s, ok 99.39%, info default/stereo/allpixel 34.4/91.8/99.9%

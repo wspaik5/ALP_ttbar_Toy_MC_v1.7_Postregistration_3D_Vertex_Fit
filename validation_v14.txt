@@ -1,0 +1,5 @@
+W1 blind: median curvature bias +38.47%  spread 49.03%  curvature pull width 49.74
+W1 b    : median curvature bias -3.34%  spread 14.40%  curvature pull width 0.61
+W2 (b, c=0): fit ok 100.0%  pull width 1.031  core 1.97 mm
+W3 (a, N=6): fit ok 100.0%  pull width 1.030  core 2.19 mm
+W1 FAIL | W2 PASS | W3 PASS

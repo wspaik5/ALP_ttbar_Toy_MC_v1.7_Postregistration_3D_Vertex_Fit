@@ -1,0 +1,7 @@
+X1: n=8000  median dchi2 0.000 [0.30-0.65]  frac>3.84 2.15% [3-8%]  frac<-0.1 0.00%  -> FAIL
+X2: dphi =  0.0 mrad  n=2000  median dchi2       0.00  frac>9   0.10%
+X2: dphi =  2.0 mrad  n=2000  median dchi2       0.04  frac>9   0.35%
+X2: dphi =  5.0 mrad  n=2000  median dchi2       2.09  frac>9  14.35%
+X2: dphi = 10.0 mrad  n=2000  median dchi2      23.02  frac>9  73.00%
+X2: monotonic increase -> PASS
+X1 FAIL | X2 PASS

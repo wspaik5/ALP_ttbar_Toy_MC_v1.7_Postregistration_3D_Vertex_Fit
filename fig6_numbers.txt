@@ -1,0 +1,46 @@
+
+=== A_prereg ===
+('conv', 'brems', 'pixel') {'n': 93055, 'sigma_core': np.float64(27.65761588412915), 'f3': np.float64(0.2964698296706249), 'pull_width': np.float64(1.041091622977827), 'median_sr': np.float64(38.46293232774996)}
+('conv', 'brems', 'strip') {'n': 397884, 'sigma_core': np.float64(23.986356419162643), 'f3': np.float64(0.12127906626051814), 'pull_width': np.float64(0.10837767566949215), 'median_sr': np.float64(129.09638528847887)}
+('conv', 'brems', 'all') {'n': 490939, 'sigma_core': np.float64(26.037969749991568), 'f3': np.float64(0.1544855878225197), 'pull_width': np.float64(0.18392629670706598), 'median_sr': np.float64(100.4631232610813)}
+('conv', 'nobrems', 'pixel') {'n': 93290, 'sigma_core': np.float64(5.371324020546075), 'f3': np.float64(0.061239146746703825), 'pull_width': np.float64(0.06817564278043935), 'median_sr': np.float64(50.93370092668273)}
+('conv', 'nobrems', 'strip') {'n': 398805, 'sigma_core': np.float64(8.722214420871115), 'f3': np.float64(0.07596695126690989), 'pull_width': np.float64(0.06606924945270448), 'median_sr': np.float64(88.20200256019264)}
+('conv', 'nobrems', 'all') {'n': 492095, 'sigma_core': np.float64(7.883667251668085), 'f3': np.float64(0.07317489509139495), 'pull_width': np.float64(0.06657339056828669), 'median_sr': np.float64(76.27048063101623)}
+('sig_fit_ok', 0.017) 0.9985990372871615
+('sig', 0.017) {'n': 55598, 'sigma_core': np.float64(27.519214620780215), 'f3': np.float64(0.13437533724234685), 'pull_width': np.float64(0.1902035146883485), 'median_sr': np.float64(118.96552916977996)}
+('deg', 0.017) {'primary': np.float64(183.06221065529502), 'hp': np.float64(197.38553111555404), 'v11_same_pairs': np.float64(4.985026450282436), 'nsig': None, 'eff': np.float64(15.192333333333332), 'B': np.float64(50670.25099999999), 'nsig_hp': None, 'B_hp': np.float64(44272.174333333314)}
+('sig_fit_ok', 0.05) 0.9983655074464625
+('sig', 0.05) {'n': 125827, 'sigma_core': np.float64(32.906010710155606), 'f3': np.float64(0.15931397871680958), 'pull_width': np.float64(0.2741423384071509), 'median_sr': np.float64(100.32225047882821)}
+('deg', 0.05) {'primary': np.float64(94.77059356666926), 'hp': np.float64(106.71603608091208), 'v11_same_pairs': np.float64(4.674803091098233), 'nsig': None, 'eff': np.float64(32.88633333333333), 'B': np.float64(12423.82866666666), 'nsig_hp': None, 'B_hp': np.float64(10908.091666666664)}
+('sig_fit_ok', 0.1) 0.9985379404454409
+('sig', 0.1) {'n': 184401, 'sigma_core': np.float64(41.45851406615335), 'f3': np.float64(0.23409309060146094), 'pull_width': np.float64(0.5204814250439852), 'median_sr': np.float64(59.509566316542895)}
+('deg', 0.1) {'primary': np.float64(43.95321829212821), 'hp': np.float64(54.95855846935118), 'v11_same_pairs': np.float64(3.6213153708686003), 'nsig': None, 'eff': np.float64(49.718), 'B': np.float64(2843.852999999999), 'nsig_hp': None, 'B_hp': np.float64(2510.182999999999)}
+('sig_fit_ok', 0.2) 0.9987491812630733
+('sig', 0.2) {'n': 236349, 'sigma_core': np.float64(39.59793720578941), 'f3': np.float64(0.3335745021134001), 'pull_width': np.float64(1.2885507667926843), 'median_sr': np.float64(22.140311669193924)}
+('deg', 0.2) {'primary': np.float64(17.095635252202218), 'hp': np.float64(18.390002640186378), 'v11_same_pairs': np.float64(2.4172743543850674), 'nsig': 1.0, 'eff': np.float64(21.79433333333333), 'B': np.float64(50.32399999999999), 'nsig_hp': 1.5, 'B_hp': np.float64(6.0169999999999995)}
+P1 {'minisim': np.float64(50.93370092668273), 'v11': np.float64(2.2243762070451067), 'ratio': np.float64(22.89797057051954)} conv fit ok (np.float64(0.9976508600981517), np.float64(1.0))
+
+=== B_parallel ===
+('conv', 'brems', 'pixel') {'n': 93189, 'sigma_core': np.float64(28.459980992114417), 'f3': np.float64(0.9083797443904323), 'pull_width': np.float64(33.41133803385756), 'median_sr': np.float64(0.955910277796945)}
+('conv', 'brems', 'strip') {'n': 397885, 'sigma_core': np.float64(15.316224988344059), 'f3': np.float64(0.6191185895422044), 'pull_width': np.float64(8.632307795630208), 'median_sr': np.float64(1.7038647472049768)}
+('conv', 'brems', 'all') {'n': 491074, 'sigma_core': np.float64(18.721733641912923), 'f3': np.float64(0.6740104342726351), 'pull_width': np.float64(11.907290942999223), 'median_sr': np.float64(1.5183379854492993)}
+('conv', 'nobrems', 'pixel') {'n': 93290, 'sigma_core': np.float64(1.4783468909748787), 'f3': np.float64(0.0027977275163468753), 'pull_width': np.float64(0.9981096688388819), 'median_sr': np.float64(1.5812748865041102)}
+('conv', 'nobrems', 'strip') {'n': 398805, 'sigma_core': np.float64(2.0461627831773), 'f3': np.float64(0.002828449994358145), 'pull_width': np.float64(1.0038332740728462), 'median_sr': np.float64(2.21368176973328)}
+('conv', 'nobrems', 'all') {'n': 492095, 'sigma_core': np.float64(1.9190811706458322), 'f3': np.float64(0.00282262571251486), 'pull_width': np.float64(1.0025590421755024), 'median_sr': np.float64(2.087841605839247)}
+('sig_fit_ok', 0.017) 0.9987427257705295
+('sig', 0.017) {'n': 55606, 'sigma_core': np.float64(21.69897068660199), 'f3': np.float64(0.6765277128367443), 'pull_width': np.float64(11.20594194712987), 'median_sr': np.float64(1.8135441941545305)}
+('deg', 0.017) {'primary': np.float64(177.8623183072104), 'hp': np.float64(198.43960012126377), 'v11_same_pairs': np.float64(4.983509589532175), 'nsig': 0.5, 'eff': np.float64(12.495000000000001), 'B': np.float64(32346.11566666666), 'nsig_hp': 0.5, 'B_hp': np.float64(16247.540999999996)}
+('sig_fit_ok', 0.05) 0.9987463600802964
+('sig', 0.05) {'n': 125875, 'sigma_core': np.float64(30.947519448578248), 'f3': np.float64(0.7974975173783515), 'pull_width': np.float64(16.227480810363478), 'median_sr': np.float64(1.7854415654544253)}
+('deg', 0.05) {'primary': np.float64(93.30939292343741), 'hp': np.float64(117.2154956637626), 'v11_same_pairs': np.float64(4.673461052944234), 'nsig': 0.5, 'eff': np.float64(27.025), 'B': np.float64(8126.961333333331), 'nsig_hp': 1.0, 'B_hp': np.float64(3855.802999999999)}
+('sig_fit_ok', 0.1) 0.9989332380287105
+('sig', 0.1) {'n': 184474, 'sigma_core': np.float64(43.074560623409305), 'f3': np.float64(0.8764758177304118), 'pull_width': np.float64(23.859632644031908), 'median_sr': np.float64(1.7349300055524806)}
+('deg', 0.1) {'primary': np.float64(42.27384178243795), 'hp': np.float64(62.67558594315662), 'v11_same_pairs': np.float64(3.6207580129148766), 'nsig': 1.5, 'eff': np.float64(37.704), 'B': np.float64(1511.7256666666663), 'nsig_hp': 3.0, 'B_hp': np.float64(545.5413333333331)}
+('sig_fit_ok', 0.2) 0.999264721418158
+('sig', 0.2) {'n': 236471, 'sigma_core': np.float64(60.34221124716092), 'f3': np.float64(0.9297630576265166), 'pull_width': np.float64(36.86958812629146), 'median_sr': np.float64(1.6003244671159005)}
+('deg', 0.2) {'primary': np.float64(16.115288499188935), 'hp': np.float64(30.620596043120663), 'v11_same_pairs': np.float64(2.4165695832566882), 'nsig': 5.0, 'eff': np.float64(35.879333333333335), 'B': np.float64(121.0693333333333), 'nsig_hp': 5.0, 'B_hp': np.float64(42.66599999999998)}
+P1 {'minisim': np.float64(1.5812748865041102), 'v11': np.float64(2.2243762070451067), 'ratio': np.float64(0.7108846432972318)} conv fit ok (np.float64(0.9979251973704264), np.float64(1.0))
+    17 MeV  no-brems bound:    1.9x (n_sigma=4.0) | +HP    1.9x | signal {'n': 55676, 'sigma_core': np.float64(5.828210133720539), 'f3': np.float64(0.1997629140024427), 'pull_width': np.float64(2.4453045195115655), 'median_sr': np.float64(2.2533917726976513)}
+    50 MeV  no-brems bound:    2.0x (n_sigma=4.0) | +HP    2.1x | signal {'n': 126033, 'sigma_core': np.float64(16.56634967089577), 'f3': np.float64(0.6624852221243642), 'pull_width': np.float64(6.6247293473882465), 'median_sr': np.float64(2.2831608968218426)}
+   100 MeV  no-brems bound:    1.9x (n_sigma=3.0) | +HP    2.6x | signal {'n': 184671, 'sigma_core': np.float64(32.23160872259312), 'f3': np.float64(0.8285762247456288), 'pull_width': np.float64(12.611330010116562), 'median_sr': np.float64(2.3283385470013203)}
+   200 MeV  no-brems bound:    1.8x (n_sigma=3.0) | +HP    4.4x | signal {'n': 236645, 'sigma_core': np.float64(57.55548879545905), 'f3': np.float64(0.9078662131040166), 'pull_width': np.float64(22.321417813332186), 'median_sr': np.float64(2.330944044656683)}
